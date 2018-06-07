@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyShot", "EasyShot\EasyShot.csproj", "{ACF8B649-FF3A-45F0-8A38-A466DEE2CC39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF8B649-FF3A-45F0-8A38-A466DEE2CC39}.Debug|x64.ActiveCfg = Debug|x64
+		{ACF8B649-FF3A-45F0-8A38-A466DEE2CC39}.Debug|x64.Build.0 = Debug|x64
+		{ACF8B649-FF3A-45F0-8A38-A466DEE2CC39}.Release|x64.ActiveCfg = Release|x64
+		{ACF8B649-FF3A-45F0-8A38-A466DEE2CC39}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0565928A-7E64-4A56-A054-DECFC5C05725}
+	EndGlobalSection
+EndGlobal
